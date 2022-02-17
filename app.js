@@ -1,6 +1,7 @@
 // Some array methods practice //
 
 // ======================================== //
+// ======================================== //
 
 // arrayName.forEach() method start //
 
@@ -189,6 +190,8 @@ console.log(result); */
 var lastIndexOfName = a.indexOf("Rahul", 3);
 console.log(lastIndexOfName); */
 
-// arrayName.lastIndexOf() start //
+// arrayName.lastIndexOf() end //
+
+// ======================================== //
 
 // ======================================== //
